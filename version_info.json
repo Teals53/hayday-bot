@@ -1,0 +1,9 @@
+{
+    "current_version": "1.0.0",
+    "github_repo": "Teals53/hayday-bot",
+    "last_check": "2025-06-26T09:13:48.509287",
+    "update_url": "https://github.com/Teals53/hayday-bot/releases",
+    "app_name": "Hayday Bot",
+    "auto_check_updates": true,
+    "check_interval_hours": 24
+}
