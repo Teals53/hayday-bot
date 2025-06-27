@@ -67,7 +67,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🔌 Connection Tab
 
-![image](https://github.com/user-attachments/assets/7c820488-05c7-4516-9ef2-6983c5bf3671)
+![image](https://github.com/user-attachments/assets/46e1cdb0-2a73-4773-a983-af2a5f6823f0)
 
 **Purpose**: Establish connection between bot and your device/emulator
 
@@ -87,7 +87,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 👤 Account Manager Tab
 
-![image](https://github.com/user-attachments/assets/af34aabe-a906-472b-8869-1c1d1a8b36f7)
+![image](https://github.com/user-attachments/assets/7aca347f-4859-466d-88a0-b8fd2fb6b4e8)
 
 **Purpose**: Manage multiple farm configurations and accounts
 
@@ -105,7 +105,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🤖 Bot Control Tab
 
-![image](https://github.com/user-attachments/assets/6924e115-e952-4f0b-bc95-c9bb62cfe4dd)
+![image](https://github.com/user-attachments/assets/648a75a0-8d96-44bf-80d9-f181086ab165)
 
 **Purpose**: Main control center for bot operations
 
@@ -126,7 +126,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### ⚙️ Farm Config Tab
 
-![image](https://github.com/user-attachments/assets/ca1981e0-8c02-48c6-8ddc-4def4be60e94)
+![image](https://github.com/user-attachments/assets/62c34719-fb6f-48d6-bcd1-be3a20d2ce6f)
 
 **Purpose**: Configure farming settings and field locations
 
@@ -147,7 +147,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🖼️ Template Manager Tab
 
-![image](https://github.com/user-attachments/assets/a0079526-9fb2-4567-bce1-68faf267b99f)
+![image](https://github.com/user-attachments/assets/6d0398d1-927e-4aab-bb6e-5e10d59302bd)
 
 **Purpose**: Manage image templates for game element recognition
 

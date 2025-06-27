@@ -40,32 +40,32 @@
         "wheat": {
             "color_range": {
                 "lower": [
-                    14,
-                    182,
-                    204
+                    11,
+                    188,
+                    202
                 ],
                 "upper": [
-                    44,
+                    41,
                     255,
                     255
                 ]
             },
-            "threshold_percentage": 75.0
+            "threshold_percentage": 70.0
         },
         "soil": {
             "color_range": {
                 "lower": [
                     0,
                     150,
-                    144
+                    118
                 ],
                 "upper": [
-                    27,
+                    25,
                     250,
-                    244
+                    218
                 ]
             },
-            "threshold_percentage": 80.0
+            "threshold_percentage": 70.0
         }
     },
     "template_thresholds": {
@@ -155,6 +155,6 @@
     "_metadata": {
         "name": "default",
         "version": "1.0",
-        "created_at": "2025-06-27T10:08:28.642144"
+        "created_at": "2025-06-27T11:38:12.725224"
     }
 }
