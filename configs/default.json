@@ -2,26 +2,26 @@
     "field_zone": {
         "polygon": [
             [
-                -203,
-                13
+                -181,
+                21
             ],
             [
-                49,
-                -118
+                30,
+                -83
             ],
             [
-                214,
-                4
+                199,
+                18
             ],
             [
-                21,
-                122
+                13,
+                119
             ]
         ]
     },
     "navigation_decoration": {
         "decoration": "gnome",
-        "offset": 160
+        "offset": 145
     },
     "tool_offsets": {
         "harvest": {
@@ -40,32 +40,32 @@
         "wheat": {
             "color_range": {
                 "lower": [
-                    11,
-                    190,
-                    202
+                    14,
+                    182,
+                    204
                 ],
                 "upper": [
-                    41,
+                    44,
                     255,
                     255
                 ]
             },
-            "threshold_percentage": 60.0
+            "threshold_percentage": 75.0
         },
         "soil": {
             "color_range": {
                 "lower": [
                     0,
                     150,
-                    117
+                    144
                 ],
                 "upper": [
-                    25,
+                    27,
                     250,
-                    217
+                    244
                 ]
             },
-            "threshold_percentage": 60.0
+            "threshold_percentage": 80.0
         }
     },
     "template_thresholds": {
@@ -155,6 +155,6 @@
     "_metadata": {
         "name": "default",
         "version": "1.0",
-        "created_at": "2025-06-26T08:38:03.981891"
+        "created_at": "2025-06-27T10:08:28.642144"
     }
 }

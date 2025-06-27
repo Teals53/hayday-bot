@@ -59,6 +59,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 ### Recommended Emulators:
 - **MEmu**, **LDPlayer**, etc.
 - Set resolution to **1280x720**
+- Set engine to **DirectX**
 - Enable Root in emulator settings
 - Enable ADB in emulator settings
 
@@ -247,9 +248,7 @@ templates/
   - Workaround: Click refresh button to load your saved configuration
 
 ### Bot Operation
-- Stop command doesn't immediately halt operations due to synchronization issues
 - Duplicate log entries may appear
-- Market check interval setting is not being properly applied
 - Another device connection checks will be implemented
 
 ### Account Management
