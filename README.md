@@ -19,7 +19,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ## 🖥️ Display Requirements
 
-**CRITICAL**: This bot is designed specifically for **1280x720 resolution**. Your emulator MUST be set to this resolution for the templates to work correctly.
+**CRITICAL**: This bot is designed specifically for **640x480 resolution 120 DPI**. Your emulator MUST be set to this resolution for the templates to work correctly.
 
 ## 🔧 Installation & Setup
 
@@ -58,7 +58,8 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### Recommended Emulators:
 - **MEmu**, **LDPlayer**, etc.
-- Set resolution to **1280x720**
+- Set resolution to **640x480**
+- Set DPI to **120**
 - Set engine to **DirectX**
 - Enable Root in emulator settings
 - Enable ADB in emulator settings
@@ -95,7 +96,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 - **Multiple Profiles**: Save different farm setups
 - **Account Switching**: Quick switching between configurations
 - **Settings Management**: Store account-specific settings
-- **Profile Import/Export**: Share configurations with others
+- **Configuration Management**: Create, copy, rename, and delete multiple farm configurations
 
 **How to Use**:
 1. Create a new profile for each farm account
@@ -135,14 +136,14 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 - **Crop Selection**: Choose what crops to plant
 - **Timing Settings**: Configure planting/harvesting delays
 - **Detection Areas**: Set up field detection zones
-- **Navigation Setup**: Configure decoration-based navigation
+- **Navigation Setup**: Configure navigation points
 
 **How to Use**:
 1. Take a screenshot of your farm
 2. Select field locations by clicking on them
 3. Choose your preferred crops
 4. Set timing intervals between actions
-5. Configure navigation decoration
+5. Configure navigation points
 6. Save your configuration
 
 ### 🖼️ Template Manager Tab
@@ -169,20 +170,19 @@ The bot uses image templates stored in the `templates/` folder:
 
 ```
 templates/
-├── decorations/     # Navigation reference points
 ├── main/           # Main game UI elements
 ├── market/         # Market interface elements
 ├── offer/          # Offer/deal recognition
 └── advert/         # Advertisement detection
 ```
 
-**Resolution**: All templates are designed for **1280x720** resolution.
+**Resolution**: All templates are designed for **640x480** resolution.
 
 ## 🚀 Getting Started - Step by Step
 
 ### Step 1: Initial Setup
 1. Run `install.bat` to install dependencies
-2. Ensure your device/emulator is set to 1280x720 resolution
+2. Ensure your device/emulator is set to 640x480 resolution
 3. Enable USB debugging on your device
 
 ### Step 2: Connect Device
@@ -219,7 +219,7 @@ templates/
 - Restart both device and computer if needed
 
 **"Bot not detecting fields/elements"**
-- Ensure screen resolution is exactly 1280x720
+- Ensure screen resolution is exactly 640x480
 - Check template images match your game version
 - Verify field locations are correctly marked
 - Try taking new template screenshots
@@ -244,7 +244,7 @@ templates/
 ## 🐛 Known Issues
 
 ### Farm Configuration
-- Farm configuration and decoration lists don't show saved decorations or last used configuration on initial load
+- Farm configuration lists don't show last used configuration on initial load
   - Workaround: Click refresh button to load your saved configuration
 
 ### Bot Operation
@@ -271,7 +271,7 @@ A: The bot operates externally and doesn't modify game files, but automation may
 A: No, this bot is designed specifically for Android emulators.
 
 **Q: Why does my bot click in wrong places?**
-A: Make sure your screen resolution is exactly 1280x720. Different resolutions will cause coordinate misalignment.
+A: Make sure your screen resolution is exactly 640x480. Different resolutions will cause coordinate misalignment.
 
 **Q: Can I run multiple bots for different accounts?**
 A: Yes, but you'll need separate device connections or multiple emulator instances.
@@ -284,8 +284,8 @@ A: Yes, use the Farm Config tab to adjust timing intervals between actions.
 
 ## 🛠️ Advanced Configuration
 
-### Custom Decoration Templates
-1. Take screenshots of game elements at 1280x720 resolution
+### Custom Templates
+1. Take screenshots of game elements at 640x480 resolution
 2. Crop to show only the element you want to detect
 3. Save as PNG or JPG in appropriate templates subfolder
 4. Test recognition using Template Manager tab
@@ -319,3 +319,7 @@ A: Yes, use the Farm Config tab to adjust timing intervals between actions.
 ## 🙏 Special Thanks
 
 Special thanks to @Gercekefsane for providing required files for fixing zoom issue and contributing useful ideas and methods.
+
+### Custom Templates
+
+**Resolution**: All templates are designed for **640x480** resolution.

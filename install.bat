@@ -44,9 +44,7 @@ echo ========================================
 echo           Setup Instructions
 echo ========================================
 echo.
-echo 1. Add template images to the templates folder:
-echo    - Decoration images in templates\decorations\
-echo 2. Run start.bat to launch the application
+echo 1. Run start.bat to launch the application
 echo.
 echo Installation complete! Press any key to exit...
 pause >nul 

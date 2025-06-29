@@ -2,35 +2,39 @@
     "field_zone": {
         "polygon": [
             [
-                -181,
-                21
+                53,
+                112
             ],
             [
-                30,
-                -83
+                173,
+                51
             ],
             [
-                199,
-                18
+                266,
+                105
             ],
             [
-                13,
-                119
+                158,
+                171
             ]
         ]
     },
-    "navigation_decoration": {
-        "decoration": "gnome",
-        "offset": 145
+    "field_center": {
+        "x": 150,
+        "y": 113
+    },
+    "escape_point": {
+        "x": 110,
+        "y": 30
     },
     "tool_offsets": {
         "harvest": {
-            "x": -150,
-            "y": -25
+            "x": -60,
+            "y": -20
         },
         "plant": {
-            "x": 125,
-            "y": 100
+            "x": 50,
+            "y": 10
         }
     },
     "detection_settings": {
@@ -41,7 +45,7 @@
             "color_range": {
                 "lower": [
                     11,
-                    188,
+                    187,
                     202
                 ],
                 "upper": [
@@ -57,20 +61,19 @@
                 "lower": [
                     0,
                     150,
-                    118
+                    117
                 ],
                 "upper": [
                     25,
                     250,
-                    218
+                    217
                 ]
             },
-            "threshold_percentage": 70.0
+            "threshold_percentage": 80.0
         }
     },
     "template_thresholds": {
         "templates": {
-            "decorations/gnome": 0.75,
             "main/connection_lost": 0.75,
             "main/escape": 0.75,
             "main/hayday": 0.75,
@@ -107,39 +110,36 @@
         "wait_time_after_action": 2.0
     },
     "price_settings": {
-        "price_option": "mid"
+        "price_option": "high"
     },
     "market_timing": {
-        "escape_wait": 300,
-        "market_open_wait": 50,
-        "collection_wait": 50,
-        "offer_page_wait": 50,
-        "quantity_click_delay": 50,
-        "price_set_wait": 50,
-        "offer_create_wait": 50,
-        "page_close_wait": 50,
-        "verification_wait": 50,
-        "advert_page_wait": 50,
-        "max_verification_attempts": 2
+        "escape_wait": 100,
+        "market_open_wait": 100,
+        "collection_wait": 100,
+        "offer_page_wait": 100,
+        "quantity_click_delay": 100,
+        "price_set_wait": 100,
+        "offer_create_wait": 100,
+        "page_close_wait": 100,
+        "verification_wait": 100,
+        "advert_page_wait": 100,
+        "max_verification_attempts": 3
     },
     "farming_timing": {
         "wheat_growth_time": 120000,
         "harvest_start_delay": 300,
         "harvest_tool_press_delay": 300,
         "harvest_move_delay": 200,
-        "harvest_center_arrival_delay": 300,
         "harvest_field_move_delay": 5,
         "plant_start_delay": 300,
         "plant_tool_press_delay": 500,
         "plant_move_delay": 200,
-        "plant_center_arrival_delay": 700,
         "plant_field_move_delay": 5,
         "post_plant_delay": 300,
-        "path_spacing": 15,
-        "path_density": 15,
+        "path_spacing": 7,
+        "path_density": 10,
         "path_randomization_pixels": 2,
         "continuous_drag_duration_per_segment": 20,
-        "field_recenter_wait": 300,
         "popup_close_wait": 500,
         "main_screen_retry_wait": 10000,
         "cycle_error_wait": 2000,
@@ -155,6 +155,6 @@
     "_metadata": {
         "name": "default",
         "version": "1.0",
-        "created_at": "2025-06-27T12:25:24.421609"
+        "created_at": "2025-06-29T16:31:06.593757"
     }
 }
