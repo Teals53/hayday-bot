@@ -319,7 +319,3 @@ A: Yes, use the Farm Config tab to adjust timing intervals between actions.
 ## 🙏 Special Thanks
 
 Special thanks to @Gercekefsane for providing required files for fixing zoom issue and contributing useful ideas and methods.
-
-### Custom Templates
-
-**Resolution**: All templates are designed for **640x480** resolution.
