@@ -109,7 +109,7 @@
         "wait_time_after_action": 2.0
     },
     "price_settings": {
-        "price_option": "high"
+        "price_option": "mid"
     },
     "market_timing": {
         "escape_wait": 100,
