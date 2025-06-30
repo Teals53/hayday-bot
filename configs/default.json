@@ -80,7 +80,7 @@
             "main/maintenance": 0.75,
             "main/market": 0.75,
             "main/silo": 0.75,
-            "main/skip": 0.1,
+            "main/skip": 0.75,
             "market/check_paper": 0.75,
             "market/in_market": 0.75,
             "market/market_close": 0.75,
