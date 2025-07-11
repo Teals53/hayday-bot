@@ -57,7 +57,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 ## 📱 Device Setup
 
 ### Recommended Emulators:
-- **MEmu**, **LDPlayer**, etc.
+- **MEmu**, etc.
 - Set resolution to **640x480**
 - Set DPI to **120**
 - Set engine to **DirectX**
@@ -253,8 +253,7 @@ templates/
 
 ### Account Management
 - Creating new accounts with fix option causes unnecessary reloads
-- LDPlayer mode account creation is currently not functioning properly
-  - Future Update: Support for LDPlayer mode will be removed
+
 
 ### Detection System
 - Detection showcase may show inconsistencies even with identical results
