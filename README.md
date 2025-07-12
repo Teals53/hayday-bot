@@ -1,4 +1,4 @@
-# THE PROJECT IN THE MAINTAIN AND CURRENT VERSION HAS BEEN REMOVED BECAUSE IT'S NOW SHIT AF. WILL BE UPDATED WHEN THE NEW VERSION IS AVAILABLE. STAY TUNED.
+# THE PROJECT IN THE MAINTAIN AND CURRENT VERSION HAS BEEN REMOVED BECAUSE IT'S NOW SHIT AF. WILL BE UPDATED WHEN THE NEW VERSION IS AVAILABLE. YOU CAN CHECK PICTURES BELOW THERE. STAY TUNED.
 
 # 🌾 Hayday Bot - Automated Farm Management Tool
 
@@ -70,7 +70,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🔌 Connection Tab
 
-![image](https://github.com/user-attachments/assets/4d711e6b-624e-4a64-85b8-6f337b953295)
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/a7d6f900-da25-4d50-ad3e-20674bacbd2a" />
 
 **Purpose**: Establish connection between bot and your device/emulator
 
@@ -90,7 +90,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 👤 Account Manager Tab
 
-![image](https://github.com/user-attachments/assets/01d32cdf-ea7c-4bed-ba05-1db63c4b5185)
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/d1fb99c3-588f-4f37-a5bf-7c251b39cb57" />
 
 **Purpose**: Manage multiple farm configurations and accounts
 
@@ -108,7 +108,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🤖 Bot Control Tab
 
-![image](https://github.com/user-attachments/assets/ff8ed32b-d2d6-4f46-b85e-655291f294fc)
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/3d0aa548-524b-441e-a4ce-dde69aa6dfc6" />
 
 **Purpose**: Main control center for bot operations
 
@@ -129,7 +129,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### ⚙️ Farm Config Tab
 
-![image](https://github.com/user-attachments/assets/846e0d4b-9ead-47f5-9485-c93573a6be97)
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/fd337da1-4232-49ac-858d-8296c2629066" />
 
 **Purpose**: Configure farming settings and field locations
 
@@ -150,7 +150,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🖼️ Template Manager Tab
 
-![image](https://github.com/user-attachments/assets/67031aeb-658b-46da-919b-b7aa31c40813)
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/fa0d313b-abdf-414d-8243-90f05f18d5b3" />
 
 **Purpose**: Manage image templates for game element recognition
 
