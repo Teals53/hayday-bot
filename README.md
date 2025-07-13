@@ -59,7 +59,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 ## 📱 Device Setup
 
 ### Recommended Emulators:
-- **MEmu**, etc.
+- **MEmu**
 - Set resolution to **640x480**
 - Set DPI to **120**
 - Set engine to **DirectX**
@@ -145,7 +145,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 2. Select field locations by clicking on them
 3. Choose your preferred crops
 4. Set timing intervals between actions
-5. Configure navigation points
+5. Configure thresholds
 6. Save your configuration
 
 ### 🖼️ Template Manager Tab
@@ -176,6 +176,7 @@ templates/
 ├── market/         # Market interface elements
 ├── offer/          # Offer/deal recognition
 └── advert/         # Advertisement detection
+└── plants/         # Plant detection
 ```
 
 **Resolution**: All templates are designed for **640x480** resolution.
@@ -184,8 +185,8 @@ templates/
 
 ### Step 1: Initial Setup
 1. Run `install.bat` to install dependencies
-2. Ensure your device/emulator is set to 640x480 resolution
-3. Enable USB debugging on your device
+2. Ensure your device/emulator is set to 640x480 120 DPI resolution
+3. Enable root on your device
 
 ### Step 2: Connect Device
 1. Open the bot with `start.bat`
@@ -198,15 +199,13 @@ templates/
 2. Take a screenshot of your farm
 3. Mark field locations by clicking on them
 4. Select crops you want to farm
-5. Set timing preferences
+5. Set other preferences
 6. Save your configuration
 
 ### Step 4: Start Botting
 1. Go to **Bot Control** tab
-2. Launch Hay Day if not already running
-3. Start "Live Detection" to monitor
-4. Click "Start Bot" to begin automation
-5. Monitor the Activity Log for progress
+2. Click "Start Bot" to begin automation
+3. Monitor the Activity Log for progress
 
 ## 🔧 Troubleshooting
 
@@ -221,7 +220,7 @@ templates/
 - Restart both device and computer if needed
 
 **"Bot not detecting fields/elements"**
-- Ensure screen resolution is exactly 640x480
+- Ensure screen resolution is exactly 640x480 120 DPI
 - Check template images match your game version
 - Verify field locations are correctly marked
 - Try taking new template screenshots
@@ -245,21 +244,8 @@ templates/
 
 ## 🐛 Known Issues
 
-### Farm Configuration
-- Farm configuration lists don't show last used configuration on initial load
-  - Workaround: Click refresh button to load your saved configuration
-
-### Bot Operation
-- Duplicate log entries may appear
-- Another device connection checks will be implemented
-
-### Account Management
-- Creating new accounts with fix option causes unnecessary reloads
-
-
-### Detection System
-- Detection showcase may show inconsistencies even with identical results
-- Log boxes are not properly separated between different instances
+### Too Much Stuff
+- Which you cant even figure it out
 
 Please report any other issues you encounter to help improve the bot.
 
@@ -269,31 +255,24 @@ Please report any other issues you encounter to help improve the bot.
 A: The bot operates externally and doesn't modify game files, but automation may violate ToS. Use at your own risk.
 
 **Q: Can I use this on mobile?**
-A: No, this bot is designed specifically for Android emulators.
+A: No, this bot is designed specifically for MEmu on PC.
 
 **Q: Why does my bot click in wrong places?**
-A: Make sure your screen resolution is exactly 640x480. Different resolutions will cause coordinate misalignment.
+A: Make sure your screen resolution is exactly 640x480 120 DPI. Different resolutions will cause coordinate misalignment.
 
-**Q: Can I run multiple bots for different accounts?**
-A: Yes, but you'll need separate device connections or multiple emulator instances.
+**Q: Can I run multiple multi cycles for different accounts?**
+A: Yes, but you'll need separate device connections like multiple emulator instances.
 
-**Q: How do I add new templates?**
-A: Use the Template Manager tab to add custom templates, or manually add image files to the appropriate templates subfolder.
+**Q: How do I edit the templates?**
+A: Use the Template Manager tab to edit templates, or manually add image files to the appropriate templates subfolder.
 
 **Q: The bot is too fast/slow, can I adjust speed?**
 A: Yes, use the Farm Config tab to adjust timing intervals between actions.
 
 ## 🛠️ Advanced Configuration
 
-### Custom Templates
-1. Take screenshots of game elements at 640x480 resolution
-2. Crop to show only the element you want to detect
-3. Save as PNG or JPG in appropriate templates subfolder
-4. Test recognition using Template Manager tab
-
 ### Fine-tuning Detection
 - Adjust detection thresholds in configuration files
-- Modify color detection ranges for different lighting
 - Customize field detection areas for better accuracy
 
 ## 📞 Support
@@ -319,4 +298,4 @@ A: Yes, use the Farm Config tab to adjust timing intervals between actions.
 
 ## 🙏 Special Thanks
 
-Special thanks to @Gercekefsane for providing required files for fixing zoom issue and contributing useful ideas and methods.
+Thanks to @Gercekefsane for providing and contributing hints about some critical ideas and methods.
