@@ -70,7 +70,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🔌 Connection Tab
 
-<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/a7d6f900-da25-4d50-ad3e-20674bacbd2a" />
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/c554a520-6d5d-46f2-900f-30b186ae8dbd" />
 
 **Purpose**: Establish connection between bot and your device/emulator
 
@@ -90,7 +90,8 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 👤 Account Manager Tab
 
-<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/d1fb99c3-588f-4f37-a5bf-7c251b39cb57" />
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/5211dcef-f1c3-472a-a66d-897610b48242" />
+<img width="752" height="682" alt="image" src="https://github.com/user-attachments/assets/c7202174-f9a4-4f36-a808-e39716854148" />
 
 **Purpose**: Manage multiple farm configurations and accounts
 
@@ -108,7 +109,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🤖 Bot Control Tab
 
-<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/3d0aa548-524b-441e-a4ce-dde69aa6dfc6" />
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/87979abe-613e-471a-ab75-3a6e7440ece4" />
 
 **Purpose**: Main control center for bot operations
 
@@ -129,7 +130,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### ⚙️ Farm Config Tab
 
-<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/fd337da1-4232-49ac-858d-8296c2629066" />
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/8d801791-2059-4970-8be1-e157bf728dbf" />
 
 **Purpose**: Configure farming settings and field locations
 
@@ -150,7 +151,7 @@ The Hayday Bot is an advanced automation tool designed to help with farming acti
 
 ### 🖼️ Template Manager Tab
 
-<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/fa0d313b-abdf-414d-8243-90f05f18d5b3" />
+<img width="1222" height="832" alt="image" src="https://github.com/user-attachments/assets/66e6aff9-6899-4548-baa8-bb3dda1d359d" />
 
 **Purpose**: Manage image templates for game element recognition
 
