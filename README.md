@@ -7,7 +7,7 @@
 1. **Download** and extract the bot
 2. **Setup MEmu** emulator (640x480, 120 DPI)
 3. **Run** `HaydayBot.exe`
-4. **Follow** the [Getting Started Guide](wiki/getting-started.md)
+4. **Follow** the [Wiki](https://github.com/Teals53/hayday-bot/wiki)
 
 ## 🎯 Key Features
 
@@ -19,7 +19,28 @@
 
 ## 📚 Documentation
 
-**📖 [Visit the Wiki](wiki/) for complete setup guides, troubleshooting, FAQ, and detailed interface documentation.**
+**📖 [Visit the Wiki](https://github.com/Teals53/hayday-bot/wiki) for complete setup guides, troubleshooting, FAQ, and detailed interface documentation.**
+
+## 🖥️ System Requirements
+
+- **OS:** Windows 10/11
+- **Emulator:** MEmu (required)
+- **Resolution:** 640x480 @ 120 DPI
+- **Root:** Enabled
+
+## 📄 License & Contact
+
+**Contact:** `Teals53` on Discord for licensing
+- 🆓 **12-hour free trial** available
+- 💎 Full license required for continued use
+
+## ⚠️ Important Notice
+
+**USE AT YOUR OWN RISK.** This bot may violate game Terms of Service. Users are responsible for compliance with all applicable terms and conditions.
+
+## 🚧 Development
+
+There's tons of ideas and bugs I need to work on - I have a list but any suggestions are welcome. You can send me problems, bugs, or feature requests and I'll add them to my list.
 
 ## 📸 Interface Screenshots
 
@@ -44,27 +65,6 @@
 ### Template Manager Tab
 <img width="1222" height="832" alt="Template Manager Tab" src="https://github.com/user-attachments/assets/1a228e88-abf0-4111-a7bc-27696fc20748" />
 
-## 🖥️ System Requirements
-
-- **OS:** Windows 10/11
-- **Emulator:** MEmu (required)
-- **Resolution:** 640x480 @ 120 DPI
-- **Root:** Enabled
-
-## 📄 License & Contact
-
-**Contact:** `Teals53` on Discord for licensing
-- 🆓 **12-hour free trial** available
-- 💎 Full license required for continued use
-
-## ⚠️ Important Notice
-
-**USE AT YOUR OWN RISK.** This bot may violate game Terms of Service. Users are responsible for compliance with all applicable terms and conditions.
-
-## 🚧 Development
-
-There's tons of ideas and bugs I need to work on - I have a list but any suggestions are welcome. You can send me problems, bugs, or feature requests and I'll add them to my list.
-
 ---
 
-**Version:** v1.0.2 | **Support:** Discord `Teals53` | **Wiki:** [Full Documentation](wiki/)
+**Version:** v1.0.2 | **Support:** Discord `Teals53` | **Wiki:** [Full Documentation](https://github.com/Teals53/hayday-bot/wiki)
