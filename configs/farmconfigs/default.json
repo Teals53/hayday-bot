@@ -190,7 +190,14 @@
         "screenshot_retry_wait": 1000,
         "market_check_interval": 1000,
         "grid_size": 15,
-        "harvest_to_plant_delay": 3
+        "harvest_to_plant_delay": 3,
+        "harvest_tool_hold_delay": 50,
+        "harvest_click_point_delay": 20,
+        "harvest_path_move_delay": 1,
+        "plant_tool_hold_delay": 100,
+        "plant_click_point_delay": 1000,
+        "plant_path_move_delay": 1,
+        "plant_tool_to_center_delay": 50
     },
     "cycle_settings": {
         "market_cycle_interval": 10000
