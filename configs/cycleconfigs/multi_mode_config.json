@@ -1,0 +1,22 @@
+{
+    "mode": "single",
+    "single_mode": {
+        "selected_account": "bot/bot_01"
+    },
+    "multi_mode": {
+        "selected_accounts": [
+            "bot/bot_01",
+            "bot/bot_02",
+            "bot/bot_03",
+            "main/patik",
+            "main/teals53"
+        ],
+        "account_configs": {
+            "bot/bot_01": "default",
+            "bot/bot_02": "default",
+            "bot/bot_03": "default",
+            "main/patik": "default",
+            "main/teals53": "default"
+        }
+    }
+}
