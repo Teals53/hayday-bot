@@ -17,7 +17,7 @@
             "y": 222
         }
     ],
-    "selected_plant": "sugarcane",
+    "selected_plant": "wheat",
     "plant_growth_times": {
         "wheat": 120,
         "corn": 300,
