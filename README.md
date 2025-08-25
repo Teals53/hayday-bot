@@ -25,6 +25,7 @@
 - **Emulator:** MEmu (required)
 - **Resolution:** 640x480 @ 120 DPI
 - **Root:** Enabled
+- **Graphics Engine:** DirectX
 
 ## 📄 License & Contact
 

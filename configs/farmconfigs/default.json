@@ -17,7 +17,7 @@
             "y": 222
         }
     ],
-    "selected_plant": "wheat",
+    "selected_plant": "sugarcane",
     "plant_growth_times": {
         "wheat": 120,
         "corn": 300,
@@ -74,14 +74,14 @@
             "threshold_percentage": 30.0,
             "color_range": {
                 "lower": [
-                    40,
-                    50,
-                    50
+                    21,
+                    153,
+                    137
                 ],
                 "upper": [
-                    80,
-                    255,
-                    255
+                    37,
+                    203,
+                    197
                 ]
             }
         },
@@ -151,22 +151,23 @@
         "wait_time_after_action": 2.0
     },
     "price_settings": {
-        "price_option": "mid"
+        "price_option": "mid",
+        "force_paper_check": false
     },
     "single_mode_options": {
         "quit_enabled": false
     },
     "market_timing": {
-        "escape_wait": 100,
-        "market_open_wait": 100,
-        "collection_wait": 100,
-        "offer_page_wait": 100,
-        "quantity_click_delay": 100,
-        "price_set_wait": 100,
-        "offer_create_wait": 100,
-        "page_close_wait": 100,
+        "escape_wait": 200,
+        "market_open_wait": 200,
+        "collection_wait": 200,
+        "offer_page_wait": 200,
+        "quantity_click_delay": 200,
+        "price_set_wait": 200,
+        "offer_create_wait": 200,
+        "page_close_wait": 200,
         "verification_wait": 300,
-        "advert_page_wait": 100,
+        "advert_page_wait": 200,
         "max_verification_attempts": 3
     },
     "farming_timing": {
