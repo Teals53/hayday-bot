@@ -66,4 +66,4 @@ There's tons of ideas and bugs I need to work on - I have a list but any suggest
 
 ---
 
-**Version:** v1.0.5 | **Support:** Discord `Teals53` | **Wiki:** [Full Documentation](https://github.com/Teals53/hayday-bot/wiki)
+**Version:** v1.0.6 | **Support:** Discord `Teals53` | **Wiki:** [Full Documentation](https://github.com/Teals53/hayday-bot/wiki)
