@@ -1,0 +1,206 @@
+{
+    "field_zone": [
+        {
+            "x": 234,
+            "y": 190
+        },
+        {
+            "x": 325,
+            "y": 143
+        },
+        {
+            "x": 385,
+            "y": 175
+        },
+        {
+            "x": 306,
+            "y": 222
+        }
+    ],
+    "selected_plant": "wheat",
+    "plant_growth_times": {
+        "wheat": 120,
+        "corn": 300,
+        "soybean": 1200,
+        "sugarcane": 1800
+    },
+    "color_detection": {
+        "plant": {
+            "threshold_percentage": 50.0,
+            "color_range": {
+                "lower": [
+                    17,
+                    217,
+                    218
+                ],
+                "upper": [
+                    33,
+                    255,
+                    255
+                ]
+            }
+        },
+        "soil": {
+            "threshold_percentage": 60.0,
+            "color_range": {
+                "lower": [
+                    2,
+                    175,
+                    137
+                ],
+                "upper": [
+                    18,
+                    225,
+                    197
+                ]
+            }
+        }
+    },
+    "template_thresholds": {
+        "templates": {
+            "main/connection_lost": 0.8,
+            "main/escape": 0.8,
+            "main/harvest": 0.8,
+            "main/hayday": 0.8,
+            "main/in_orders": 0.75,
+            "main/increase": 0.75,
+            "main/levelup": 0.8,
+            "main/main": 0.8,
+            "main/main_close": 0.7,
+            "main/maintenance": 0.8,
+            "main/market": 0.7,
+            "main/order_delete": 0.75,
+            "main/order_sent": 0.75,
+            "main/order_table": 0.75,
+            "main/order_tick": 0.75,
+            "main/server_offline": 0.8,
+            "main/silo": 0.75,
+            "main/tick": 0.75,
+            "main/unable": 0.75,
+            "main/up_barn": 0.55,
+            "main/up_silo": 0.55,
+            "main/upgrade": 0.75,
+            "main/upgrade_close": 0.75,
+            "main/voucher": 0.75,
+            "market/check_paper": 0.75,
+            "market/in_market": 0.5,
+            "market/market_close": 0.7,
+            "market/new_offer": 0.7,
+            "market/offer": 0.8,
+            "market/sold": 0.8,
+            "offer/arrow_left": 0.8,
+            "offer/arrow_right": 0.8,
+            "offer/create_offer": 0.8,
+            "offer/in_offer_barn": 0.75,
+            "offer/in_offer_silo": 0.75,
+            "offer/offer_barn": 0.75,
+            "offer/offer_close": 0.7,
+            "offer/offer_silo": 0.8,
+            "offer/paper_delay": 0.8,
+            "offer/paper_offer": 0.65,
+            "offer/plus_button": 0.8,
+            "advert/advert_close": 0.7,
+            "advert/paper_button": 0.65,
+            "advert/paper_cooldown": 0.8,
+            "advert/paper_create": 0.8,
+            "advert/paper_page": 0.8,
+            "plants/corn": 0.85,
+            "plants/corn_market": 0.85,
+            "plants/soybean": 0.85,
+            "plants/soybean_market": 0.85,
+            "plants/sugarcane": 0.85,
+            "plants/sugarcane_market": 0.85,
+            "plants/wheat": 0.8,
+            "plants/wheat_market": 0.8,
+            "tools/axe": 0.75,
+            "tools/demolition": 0.75,
+            "tools/dynamite": 0.75,
+            "tools/saw": 0.75,
+            "tools/shovel": 0.75
+        }
+    },
+    "game_settings": {
+        "package_name": "",
+        "wait_time_after_action": 2.0
+    },
+    "price_settings": {
+        "price_option": "random"
+    },
+    "single_mode_options": {
+        "quit_enabled": false
+    },
+    "automatic_upgrader": {
+        "auto_barn_upgrade": true,
+        "auto_silo_upgrade": true,
+        "upgrade_cycle": 1
+    },
+    "market_operations": {
+        "force_paper_check": false,
+        "market_plant_option": "wheat"
+    },
+    "tool_selling": {
+        "enabled_tools": {
+            "axe": true,
+            "saw": true,
+            "dynamite": true,
+            "demolition": false,
+            "shovel": false
+        },
+        "tools_price_option": "high",
+        "tools_cycle": 1
+    },
+    "modular_operations": {
+        "farming_enabled": true,
+        "market_operations_enabled": true
+    },
+    "market_timing": {
+        "escape_wait": 150,
+        "market_open_wait": 150,
+        "collection_wait": 150,
+        "offer_page_wait": 150,
+        "quantity_click_delay": 150,
+        "price_set_wait": 150,
+        "offer_create_wait": 150,
+        "page_close_wait": 150,
+        "verification_wait": 300,
+        "advert_page_wait": 150,
+        "max_verification_attempts": 3
+    },
+    "farming_timing": {
+        "harvest_start_delay": 50,
+        "harvest_tool_press_delay": 500,
+        "harvest_move_delay": 1,
+        "harvest_field_move_delay": 1,
+        "plant_start_delay": 50,
+        "plant_tool_press_delay": 500,
+        "plant_move_delay": 1,
+        "plant_field_move_delay": 1,
+        "post_plant_delay": 50,
+        "path_spacing": 8,
+        "path_density": 3,
+        "path_randomization_pixels": 2,
+        "continuous_drag_duration_per_segment": 20,
+        "popup_close_wait": 500,
+        "main_screen_retry_wait": 10000,
+        "cycle_error_wait": 2000,
+        "silo_popup_wait": 500,
+        "screenshot_retry_wait": 1000,
+        "market_check_interval": 1000,
+        "grid_size": 8,
+        "harvest_to_plant_delay": 5000,
+        "harvest_tool_hold_delay": 50,
+        "harvest_click_point_delay": 20,
+        "harvest_path_move_delay": 1,
+        "plant_tool_hold_delay": 100,
+        "plant_click_point_delay": 500,
+        "plant_path_move_delay": 1,
+        "plant_tool_to_center_delay": 50,
+        "building_click_wait": 100,
+        "increase_click_wait": 100,
+        "upgrade_click_wait": 100,
+        "close_click_wait": 100
+    },
+    "cycle_settings": {
+        "market_cycle_interval": 10000
+    }
+}
