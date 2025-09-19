@@ -1,4 +1,4 @@
-# 🌾 Hayday Bot - Farm Automation
+<img width="1222" height="881" alt="3" src="https://github.com/user-attachments/assets/8b4bfb68-d93d-48e5-bcb6-c9b528e12906" /># 🌾 Hayday Bot - Farm Automation
 
 **Automated farming bot for Hay Day with multi-account support and intelligent crop management.**
 
@@ -59,18 +59,18 @@ There's tons of ideas and bugs I need to work on - I have a list but any suggest
 <img width="452" height="382" alt="00" src="https://github.com/user-attachments/assets/a48848cb-69e6-43d8-a186-c597a5eaaff7" />
 
 ### Connection Tab
-<img width="1222" height="832" alt="1" src="https://github.com/user-attachments/assets/a550cc35-534d-48b4-a184-b7c3a3303d11" />
+<img width="1222" height="881" alt="1" src="https://github.com/user-attachments/assets/ad265d24-b699-481f-a85b-bf7c8d127104" />
 
 ### Account Manager Tab
-<img width="1222" height="832" alt="2" src="https://github.com/user-attachments/assets/4a62698f-f662-4462-9bfb-0b626f844353" />
+<img width="1222" height="881" alt="2" src="https://github.com/user-attachments/assets/8befde04-be63-4b9f-ab30-d72e833a84e6" />
 
 ### Bot Control Tab
-<img width="1222" height="832" alt="3" src="https://github.com/user-attachments/assets/9374d78c-4479-4130-b264-2be8a88d654c" />
+<img width="1222" height="881" alt="3" src="https://github.com/user-attachments/assets/1334ffcc-ac50-4c1b-8614-b2027814c954" />
 
 ### Farm Config Tab
-<img width="1222" height="832" alt="4" src="https://github.com/user-attachments/assets/85c7f7e5-7499-44d1-bf17-b3ebdd7dbb49" />
+<img width="1222" height="881" alt="4" src="https://github.com/user-attachments/assets/e4a68608-7efd-4f7f-843e-3805b933b06c" />
 
 ### Template Manager Tab
-<img width="1222" height="832" alt="5" src="https://github.com/user-attachments/assets/a54c8a25-9b60-441a-82de-f01d824f1e34" />
+<img width="1222" height="881" alt="5" src="https://github.com/user-attachments/assets/8a189c54-e09c-44cc-b3a1-c02a320b0559" />
 
 ---
