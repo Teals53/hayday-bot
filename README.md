@@ -1,4 +1,4 @@
-<img width="1222" height="881" alt="3" src="https://github.com/user-attachments/assets/8b4bfb68-d93d-48e5-bcb6-c9b528e12906" /># 🌾 Hayday Bot - Farm Automation
+# 🌾 Hayday Bot - Farm Automation
 
 **Automated farming bot for Hay Day with multi-account support and intelligent crop management.**
 
