@@ -2,26 +2,34 @@
 
 **Automated farming bot for Hay Day with multi-account support and intelligent crop management.**
 
-## 🎥 Demo Video
-
-**Watch the bot in action:** [HayDay Bot 2025 – Fully Automatic | Multi-Bot, Harvest & Account Creator](https://www.youtube.com/watch?v=W0CTgTaMcoY)
-
 ## ⚡ Quick Start
 
-1. **Download** and extract the bot
+1. **Download** the bot from [t.me/haydaybot0](https://t.me/haydaybot0)
 2. **Setup MEmu** emulator
 3. **Run** `HaydayBot.exe`
-4. **Follow** the [Wiki](https://github.com/Teals53/hayday-bot/wiki)
+4. **Follow** the [Wiki](https://hayday.bot)
 
 ## 🎯 Key Features
 
-- 🌾 **Auto Farming** - Plants harvests and sell crops automatically
-- 👥 **Multi-Account** - Manages multiple accounts seamlessly
-- 🔄 **Account Creation** - Automated account setup
+- ✅ **Automatic planting, harvesting & selling**
+- ✅ **Multi-plant support**
+- ✅ **Single & multi-account support**
+- ✅ **Multi-emulator support**
+- ✅ **Full account manager**
+- ✅ **Account information lookup**
+- ✅ **Built-in account creator (Level 5 ready)**
+- ✅ **Game fixer (feature mods)**
+- ✅ **Automatic Barn & Silo upgrader**
+- ✅ **Auto-selling selected tools**
+- ✅ **Customizable price options**
+- ✅ **Fully customizable advanced settings**
+- ✅ **Full Wiki + Troubleshooting guide**
+- ✅ **In-build tools for smooth usage**
+- ⚡ **Fast, stable, and designed to maximize your farm profits with ease.**
 
 ## 📚 Documentation
 
-**📖 [Visit the Wiki](https://github.com/Teals53/hayday-bot/wiki) for complete setup guides, troubleshooting, FAQ, and detailed interface documentation.**
+**📖 [Visit the Wiki](https://hayday.bot) for complete setup guides, troubleshooting, FAQ, and detailed interface documentation.**
 
 ## 🖥️ System Requirements
 
@@ -33,9 +41,8 @@
 
 ## 📄 License & Contact
 
-**Contact:** `Teals53` on Discord or Telegram for licensing
-- **Discord**: Contact Teals53 on Discord
-- **Telegram**: https://t.me/haydaybot53/
+**Contact:** `Teals53` on Telegram for licensing
+- **Telegram**: https://t.me/haydaybot0
 - 💎 Full license required for continued use
 
 ## ⚠️ Important Notice
@@ -70,5 +77,3 @@ There's tons of ideas and bugs I need to work on - I have a list but any suggest
 <img width="1222" height="832" alt="7" src="https://github.com/user-attachments/assets/c774d712-2664-4dec-a387-fd946240e7bf" />
 
 ---
-
-**Version:** v1.1.6 | **Support:** Discord `Teals53` | **Wiki:** [Full Documentation](https://github.com/Teals53/hayday-bot/wiki)
