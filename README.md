@@ -17,7 +17,7 @@
 - ✅ **Multi-emulator support**
 - ✅ **Full account manager**
 - ✅ **Account information lookup**
-- ✅ **Built-in account creator**
+- ✅ **Built-in level 5 account creator**
 - ✅ **Game fixer (feature mods)**
 - ✅ **Automatic Barn & Silo upgrader**
 - ✅ **Auto-selling selected tools**
