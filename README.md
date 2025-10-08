@@ -56,21 +56,21 @@ There's tons of ideas and bugs I need to work on - I have a list but any suggest
 ## 📸 Interface Screenshots
 
 ### License Tab
-<img width="452" height="382" alt="00" src="https://github.com/user-attachments/assets/a48848cb-69e6-43d8-a186-c597a5eaaff7" />
+<img width="452" height="382" alt="0" src="https://github.com/user-attachments/assets/98d66c72-61b3-4345-bc8d-e52f49fa359a" />
 
 ### Connection Tab
-<img width="1222" height="881" alt="1" src="https://github.com/user-attachments/assets/ad265d24-b699-481f-a85b-bf7c8d127104" />
+<img width="1222" height="911" alt="1" src="https://github.com/user-attachments/assets/f895630c-eda3-4aa5-b4c7-96836c00ba6f" />
 
 ### Account Manager Tab
-<img width="1222" height="881" alt="2" src="https://github.com/user-attachments/assets/8befde04-be63-4b9f-ab30-d72e833a84e6" />
+<img width="1222" height="911" alt="2" src="https://github.com/user-attachments/assets/ddfd6567-ced4-40fb-9c21-21c62b738c80" />
 
 ### Bot Control Tab
-<img width="1222" height="881" alt="3" src="https://github.com/user-attachments/assets/1334ffcc-ac50-4c1b-8614-b2027814c954" />
+<img width="1222" height="911" alt="3" src="https://github.com/user-attachments/assets/9c16a41f-5e92-4071-811a-25018131665e" />
 
 ### Farm Config Tab
-<img width="1222" height="881" alt="4" src="https://github.com/user-attachments/assets/e4a68608-7efd-4f7f-843e-3805b933b06c" />
+<img width="1222" height="911" alt="4" src="https://github.com/user-attachments/assets/29a23a62-b17a-459a-b0cd-a120a1bd516a" />
 
 ### Template Manager Tab
-<img width="1222" height="881" alt="5" src="https://github.com/user-attachments/assets/8a189c54-e09c-44cc-b3a1-c02a320b0559" />
+<img width="1222" height="911" alt="5" src="https://github.com/user-attachments/assets/a714e675-e5f1-4319-8814-74b6293d43a3" />
 
 ---
